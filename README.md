@@ -2,7 +2,7 @@
 
 Seven self-study courses for engineers moving into AI engineering, packaged as one offline web app: 270 modules, about 260 hours of study, and about 800 self-test questions.
 
-**[Open the live site](https://pawla-homsi.github.io/engineering-courses-hub/)**
+**[Open the live site](https://paola-homsi.github.io/engineering-courses-hub/)**
 
 ![Course map of the Production RAG course](docs/screenshot.png)
 
@@ -40,7 +40,7 @@ Progress is saved in your browser's local storage only.
 
 I designed the curriculum and the module format, and wrote the courses together with Claude (Anthropic's AI assistant), which drafted most of the module text and code.
 
-Treat it as study material, not as an authoritative reference. If you find an error, please [open an issue](https://github.com/pawla-homsi/engineering-courses-hub/issues).
+Treat it as study material, not as an authoritative reference. If you find an error, please [open an issue](https://github.com/paola-homsi/engineering-courses-hub/issues).
 
 ## Repository layout
 
